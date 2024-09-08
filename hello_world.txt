@@ -1,1 +1,2 @@
 Hello again
+Testing git commit on Visual Studio Code
